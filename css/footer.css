@@ -1,0 +1,33 @@
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2px;
+  flex-direction: column;
+  padding-top: 13px;
+}
+
+.keyborad-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+
+.keyboard-col {
+  display: felx;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid gray;
+  background-color: rgb(211, 214, 218);
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+}
+
+.keyboard-col {
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

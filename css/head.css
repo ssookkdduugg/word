@@ -1,0 +1,39 @@
+header {
+  border-bottom: 1px solid whitesmoke;
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+
+.menu {
+  display: flex;
+  padding: 0 10px 0 10px;
+  align-items: center;
+}
+.center {
+  font-size: 40px;
+  display: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.head {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px 0 10px;
+  align-items: center;
+}
+.menu img {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  width: 40px;
+  margin-right: 10px;
+}
+
+.tool img {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  width: 40px;
+  margin-right: 10px;
+}
